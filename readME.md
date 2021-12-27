@@ -33,3 +33,6 @@
     -git commit
          -set configurations
          -and commit message
+    -git remote add origin <link>
+    -git push origin master
+    
