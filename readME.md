@@ -36,5 +36,29 @@
     - git remote add origin <link>
     - git push origin master
 ### html(hyper text markup language)
-    -
+    - sematic elements
+        - header
+        - section
+        - optical
+        - aside
+        - footer
+        - table
+    - block level elements(adaptes to scrren size)
+        - h1 tp h6
+        - paragraph
+        - div
+        - header
+        - all semantic elements
+        - text will sart with new line
+    - Inline elements
+        - apn
+        - image
+        - anchor element
+        - nav
+        - form
+        - input
+        - text area
+        - legend
+        - sup
+        - sub
 
