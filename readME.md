@@ -24,7 +24,7 @@
     -remote(central) vcs
         -github,Bitbucket
 
-### git projrct addition
+### git project addition
     -git init
     -git add filename
     -git add filename1 filename55 filename100
@@ -35,4 +35,4 @@
          -and commit message
     -git remote add origin <link>
     -git push origin master
-    
+
