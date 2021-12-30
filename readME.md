@@ -200,9 +200,18 @@ dynamic web applications
   - Redeclare --->var
 + 'typwof()'
 + object
- 
- '''
-let employe={
-    
 
- }
+### alerts
++ to generate notifications
+ - alert
+ - prompt(to take input from the user)
+ - confrim
+
++ console statements
+ - 'console.log()'
+ - console.log()'
+ - console.info()'
+ - console.error()'
+
+ ### spread operator
+ - 
