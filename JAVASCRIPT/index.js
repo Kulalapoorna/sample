@@ -59,17 +59,23 @@
 
 //distruting of array]
 
-// let gh=["dee","ach","viji","bha"]
+employess=["dee","ach","viji","bha"]
 // let[dee,ach]=gh
 // let n1=gh[3,2];
 // console.log(n1)
-let sr={
-    n:"deee",
-    rn:"34",
-    mn:"4465678876"
+// let sr={
+//     n:"deee",
+//     rn:"34",
+//     mn:"4465678876"
 
-}
-let {n,rn,...rl}=sr;
-console.log(n);
-console.log(rn);
-console.log(rl)
+// }
+// let {n,rn,...rl}=sr;
+// console.log(n);
+// console.log(rn);
+// console.log(rl)
+
+// map function
+// let result= employess.map((element,index)=>{
+//     return element+" h"+index
+// })
+// console.log(result)

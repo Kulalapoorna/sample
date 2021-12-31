@@ -10,7 +10,17 @@
     </script>
 </head>
 <body>
-    <!-- <script>
+    <div class="main">
+        <div class="child">
+            <h1 class="child"></h1>
+            <h2 id="demo">heading
+                <span>Text</span>
+                <a href="">link</a>
+            </h2>
+
+        </div>
+    </div>
+     <script>
         // // console.log("welcome")
         // function demo(){
 
@@ -30,8 +40,22 @@
         // }
         // var age= 23
         // console .log (age)
+        var main=document.querySelector(".main");
+        var child=document.querySelector(".child")
+
+           var heading=document.createElement('h1');
+           heading.textContent="WELCOME";
+           child.appendChild(heading);
+           main.appendChild(child);
+           var content= document.getElementById("demo").innerHTML;
+           console.log(content)
+      
         
-    </script> -->
-    
+    </script>
+     
+
+
+  
+     
 </body>
 </html>

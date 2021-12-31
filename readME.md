@@ -215,3 +215,48 @@ dynamic web applications
 
  ### spread operator
  - 
+
+
+
+ ### DOM
+
+  - Document object Model
+  - document
+  - history
+  - window
+  - navigator
++ DOM METHODS
+ - 'getElementById()'
+ - 'getElementsByclassName()'
+ - 'querySelector()'
+ - 'innertext'
+ - 'textcontent'
+ - 'append'
+ 
+ ### JSON
+
+ + JavaScript object Notation
+    - To exchange information between application and server
+
+'''
+### ReactJS
+
++ It is a Library
++ It follows component based Architecture
+  - Function component
+  - Class component
+  - Pure component
+  - Higher order component
++ It provides vitrual DOM
++ Unidirectional data flow
++ Single page Application
+
++  Project Environment setup
+      - [DowlodeNode js]
+    -'node -v'
+    - 'npm -v'
+  -'webpack'and 'babe1'
+  -'create-react-app'
+    - npm install creat-react-app'
+    - creat-react-app projectname'
+  - 'npx creat-react-app appnamen
